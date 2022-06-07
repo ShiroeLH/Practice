@@ -48,7 +48,7 @@ class UsersTableSeeder extends Seeder
         \App\Models\User::create([
             // names
             'first_name'        => 'Lorenzo',
-            'middle_name'       => '',
+            'middle_name'       => 'Cruz',
             'last_name'         => 'Sotto',
             'user_name'         => 'Renzo',
             // additional info
@@ -63,7 +63,7 @@ class UsersTableSeeder extends Seeder
         \App\Models\User::create([
             // names
             'first_name'        => 'Angel',
-            'middle_name'       => '',
+            'middle_name'       => 'rawr',
             'last_name'         => 'Hernandez',
             'user_name'         => 'Angel',
             // additional info
@@ -78,7 +78,7 @@ class UsersTableSeeder extends Seeder
         \App\Models\User::create([
             // names
             'first_name'        => 'Julia',
-            'middle_name'       => '',
+            'middle_name'       => 'rawr',
             'last_name'         => 'Ysobel',
             'user_name'         => 'Julia',
             // additional info
