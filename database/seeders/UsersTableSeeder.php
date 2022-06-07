@@ -63,7 +63,7 @@ class UsersTableSeeder extends Seeder
         \App\Models\User::create([
             // names
             'first_name'        => 'Angel',
-            'middle_name'       => 'rawr',
+            'middle_name'       => 'Jumaquio',
             'last_name'         => 'Hernandez',
             'user_name'         => 'Angel',
             // additional info
