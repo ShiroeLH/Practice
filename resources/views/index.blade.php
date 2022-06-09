@@ -4,8 +4,10 @@
 
     @guest
     <div class="bg-br-primary ht-100v">
-        <div class="pd-40 bg-br-primary">          
+        <div class="pd-40 bg-br-primary">
+            <!--
             <div id="accordion" class="accordion" role="tablist" aria-multiselectable="true">
+                
                 <div class="card">
                     <div class="card-header" role="tab" id="headingOne">
                         <h6 class="mg-b-0">
@@ -14,7 +16,7 @@
                                 Some Content
                             </a>
                         </h6>
-                    </div><!-- card-header -->
+                    </div>
             
                     <div id="collapseOne" class="collapse show" role="tabpanel" aria-labelledby="headingOne">
                         <div class="card-block pd-20">
@@ -24,6 +26,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
                     <div class="card-header" role="tab" id="headingTwo">
                         <h6 class="mg-b-0">
@@ -42,6 +45,7 @@
                         </div>
                     </div>
                 </div>
+
                 <div class="card">
                     <div class="card-header" role="tab" id="headingThree">
                         <h6 class="mg-b-0">
@@ -58,9 +62,18 @@
                             Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda
                             shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore.
                         </div>
-                    </div><!-- collapse -->
-                </div><!-- card -->
-            </div><!-- accordion -->
+                    </div>
+                </div>
+                
+            </div>
+            -->
+            <div class="card bg-br-primary bd-x-0 bd-y-0">
+                <div class="card-body pd-l-100 bd-x-0 bd-y-0">
+                    <img src="../img/test_sample.png" width="800" height="600" style="float:left">
+                    <h4 class="mg-b-0 tx-uppercase tx-bold tx-spacing--2 tx-poppins tx-100 mg-r-auto tx-white pd-t-180">Practice makes progress</h4>
+                </div>
+              </div><!-- card -->
+            
         </div>
     </div>
     @else
