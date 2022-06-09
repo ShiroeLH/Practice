@@ -70,7 +70,7 @@
             <div class="card bg-br-primary bd-x-0 bd-y-0">
                 <div class="card-body pd-l-100 bd-x-0 bd-y-0">
                     <img src="../img/test_sample.png" width="800" height="600" style="float:left">
-                    <h4 class="mg-b-0 tx-uppercase tx-bold tx-spacing--2 tx-poppins tx-100 mg-r-auto tx-white pd-t-180">Practice makes progress</h4>
+                    <h4 class="mg-b-0 tx-bold tx-spacing--2 tx-poppins tx-100 mg-r-auto tx-white pd-t-180">Practice makes progress!</h4>
                 </div>
               </div><!-- card -->
             
